@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 19, 2020, 1:43:15 PM
+    Author     : ngota
+*/
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+body {
+    background-color: #fafafa;
+    min-height: 100vh;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    min-height: 100vh;
+}
+
+.instagram-h1 {
+    font-family: 'Grand Hotel', cursive;
+}
+
+.is-centered-img {
+    margin: 0 auto;
+}
+
+.error {
+    color: red;
+}
+
+#file-upload-name {
+    max-width: 150px;
+    white-space: nowrap;
+}
+
+.navbar-item.navbar-center {
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bg-active a {
+    color: #fff;
+    background-color: #00c4a7;
+}

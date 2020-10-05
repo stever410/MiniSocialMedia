@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/controllers/AddEmotionController.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/web/member/verification.jsp</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/controllers/AddArticleController.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/controllers/SearchArticleController.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/controllers/ShowArticleDetailController.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/daos/EmotionDAO.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/controllers/VerifyCodeController.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/controllers/DeleteArticleController.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/controllers/AddCommentController.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/controllers/LoadNotificationController.java</file>
+            <file>file:/E:/FPT%20University/CN5%20-%20FALL%202020/LAB231/SE140639-SE1410-J3.L.P0010-MiniSocialNetwork/src/java/ducnt/filters/RoleFilter.java</file>
+        </group>
+    </open-files>
+</project-private>
